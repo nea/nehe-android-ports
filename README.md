@@ -14,7 +14,7 @@ These ports were developed using the Eclipse-based [Android Development Toolkit]
 This source and the whole package comes without warranty. It may or may not harm your computer or cell phone. Please use with care. Any damage cannot be related back to the author. The source has been tested on a virtual environment and scanned for viruses and has passed all tests.
 
 ## Personal Note
-*These ports were created in 2009 to fiddle around with Android and OpenGL for my first time. They were used by me to test and learn and have no intention to be the best, correct solution out there. If you use this code or find it helpful, please visit and send a shout to the author at [INsanityDesign][6].*
+*These ports were created in 2009 to fiddle around with Android and OpenGL for my first time. They were used by me to test and learn and have no intention to be the best, correct solution out there. If you use this code or find it helpful, please visit and send a shout to me at [INsanityDesign][6].*
 
 
   [1]: http://nehe.gamedev.net
